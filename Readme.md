@@ -1,23 +1,9 @@
 ![screencast](https://cloud.githubusercontent.com/assets/499192/10754100/c0e1cc4c-7c95-11e5-9d3b-842d3acc2fd5.gif)
 
 ## Aerial - Apple TV Aerial Views Screen Saver
-Aerial is a Mac screen saver based on the new Apple TV screen saver that displays the aerial movies Apple shot over New York, San Francisco, Hawaii, China, etc.
+Aerial is a Mac screen saver with aerial views from my own drone.
 
-Aerial is completely open source, so feel free to contribute to its development!  
-
-[![Github All Releases](https://img.shields.io/github/downloads/johncoates/aerial/total.svg?maxAge=2592000)]()
-[![GitHub contributors](https://img.shields.io/github/contributors/johncoates/aerial.svg?maxAge=2592000)]()
-[![Build Status](https://travis-ci.org/JohnCoates/Aerial.svg?branch=master)](https://travis-ci.org/JohnCoates/Aerial)
-[![codebeat badge](https://codebeat.co/badges/cefd1672-5501-4b79-8d08-c2121cdbc9ed)](https://codebeat.co/projects/github-com-johncoates-aerial-e1c8873e-7a9f-4c74-9e50-0380add2478a)
-[![Code Climate](https://codeclimate.com/github/JohnCoates/Aerial/badges/gpa.svg)](https://codeclimate.com/github/JohnCoates/Aerial)
-[![codecov](https://codecov.io/gh/JohnCoates/Aerial/branch/master/graph/badge.svg)](https://codecov.io/gh/JohnCoates/Aerial)
-
-###### Windows user? Try [cDima/Aerial](https://github.com/cDima/Aerial/)
-
-#### Coded with Love by John Coates
-
-[![Twitter](http://i.imgur.com/KzOiue1.png)](http://twitter.com/punksomething)
-[![Email](http://i.imgur.com/FvDZudR.png)](mailto:john@johncoates.me)
+**This is a spinoff of John Coates' [Aerial Screen Saver](https://github.com/JohnCoates/Aerial). All credits belong to him and the contributors who helped him.**
 
 ## Installation
 
